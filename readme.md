@@ -22,7 +22,7 @@
 
 9. [Dev Tools Domination](https://corneal64.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/)
 
-10. [Hold Shift and Check Checkboxes](https://corneal64.github.io/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)
+10. [Hold Shift and Check Checkboxes](https://corneal64.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)
 
     
 
