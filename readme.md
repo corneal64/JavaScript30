@@ -26,9 +26,6 @@
 
 11. [Custom Video Player](https://corneal64.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/)
 
-
-
-    
-
+12. [Key Sequence Detection](https://corneal64.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/)
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
