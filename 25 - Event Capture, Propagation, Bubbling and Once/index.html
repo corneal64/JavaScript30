@@ -40,28 +40,29 @@
   }
 </style>
 
-<button></button>
-<script>
-  const divs = document.querySelectorAll('div');
-  const button = document.querySelector('button');
+<button>Checkout</button>
 
-  function logText(e) {
+<script>
+
+  const divs = document.querySelectorAll("div");
+  const button = document.querySelector("button");
+
+  function log(e) {
     console.log(this.classList.value);
-    // e.stopPropagation(); // stop bubbling!
-    // console.log(this);
+    e.stopPropagation() // Stop bubbling up!
   }
 
-  divs.forEach(div => div.addEventListener('click', logText, {
-    capture: false,
-    once: true
+  divs.forEach(div => div.addEventListener("click", log, {
+    capture: false
   }));
 
-  button.addEventListener('click', () => {
-    console.log('Click!!!');
+  button.addEventListener("click", () => {
+    console.log("Done!")
   }, {
-    once: true
+    once: true // Run function only once then unbind event listener. 
   });
 
 </script>
+
 </body>
 </html>
