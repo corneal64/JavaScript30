@@ -28,4 +28,30 @@
 
 12. [Key Sequence Detection](https://corneal64.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/)
 
+13. [Slide in on Scroll](https://corneal64.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/)
+
+14. [JavaScript References VS Copying](https://corneal64.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/)
+
+15. [LocalStorage](https://corneal64.github.io/JavaScript30/15%20-%20LocalStorage/)
+
+16. [Mouse Move Shadow](https://corneal64.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/)
+
+17. [Sort Without Articles](https://corneal64.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/)
+
+18. [Adding Up Times with Reduce](https://corneal64.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/)
+
+19. 
+
+20.
+
+21. [Geolocation](https://corneal64.github.io/JavaScript30/21%20-%20Geolocation/)
+
+22. [Follow Along Link Highlighter](https://corneal64.github.io/JavaScript30/22%20-%20Follow%20Along%20Link%20Highlighter/)
+
+
+
+
+
+
+
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
