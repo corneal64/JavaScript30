@@ -42,11 +42,17 @@
 
 19. 
 
-20.
+20. [20 - Speech Detection](https://corneal64.github.io/JavaScript30/20%20-%20Speech%20Detection/)
 
 21. [Geolocation](https://corneal64.github.io/JavaScript30/21%20-%20Geolocation/)
 
 22. [Follow Along Link Highlighter](https://corneal64.github.io/JavaScript30/22%20-%20Follow%20Along%20Link%20Highlighter/)
+
+23.
+
+24. [Sticky Nav](https://corneal64.github.io/JavaScript30/24%20-%20Sticky%20Nav)
+
+25. [25 - Event Capture, Propagation, Bubbling and Once](https://corneal64.github.io/JavaScript30/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once)
 
 27. [Click and Drag](https://corneal64.github.io/JavaScript30/27%20-%20Click%20and%20Drag/)
 
