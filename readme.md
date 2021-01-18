@@ -48,7 +48,7 @@
 
 22. [Follow Along Link Highlighter](https://corneal64.github.io/JavaScript30/22%20-%20Follow%20Along%20Link%20Highlighter/)
 
-27. [Click and Drag](https://github.com/corneal64/JavaScript30/tree/master/27%20-%20Click%20and%20Drag)
+27. [Click and Drag](https://corneal64.github.io/JavaScript30/27%20-%20Click%20and%20Drag/)
 
 
 
